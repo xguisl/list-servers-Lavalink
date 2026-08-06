@@ -56,8 +56,10 @@ Version 3.x / 4.x <br />
 
 ```
 
-
+```bash
+Host : lava-v4.millohost.my.id
+Port : 443
+Password : "https://discord.gg/mjS5J2K3ep"
 Secure : true
+
 ```
-
-
