@@ -36,10 +36,6 @@ Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : true
 
-"host": "lavalinkv4.serenetia.com",
-"port": 443,
-"password": "https://seretia.link/discord",
-"secure": true
 
 ```
 Version 3.x <br />
@@ -52,10 +48,12 @@ Secure : true
 ```
 Version 3.x / 4.x <br />
 ```bash
-Host : lavalink.serenetia.com
-Port : 443
-Password : "https://dsc.gg/ajidevserver"
-Secure : true
+
+    "host": "lavalinkv4.serenetia.com",
+    "port": 443,
+    "password": "https://seretia.link/discord",
+    "secure": true
+
 ```
 
 
