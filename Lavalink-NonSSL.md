@@ -53,26 +53,16 @@ Secure : false
 ```
 
 
-### Hosted by @ [Tapao](https://github.com/Tapao-NonSen)
-[Website](https://tapao.nyxbot.app/free-nodelink)
-
-Version: 4.x.x | [Supported lavalink client list](https://github.com/performanC/nodelink?tab=readme-ov-file#usage)
-Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [website](https://tapao.nyxbot.app/free-nodelink)
+Versão do Site
+4.0.8 | salee-plugin (Proxy)
+status load players
 
 ```bash
-Host: sg1-nodelink.nyxbot.app
-Port: 3000
-Password: nyxbot.app/support
-Secure: false
+Host : lavalink.jirayu.net
+Port : 13592
+Password : "youshallnotpass"
+Secure : false   
 ```
-
-```bash
-Host: sg2-nodelink.nyxbot.app
-Port: 3000
-Password: nyxbot.app/support
-Secure: false
-```
-
 
 ### Hosted by @ [G3V](https://g3v.co.uk) | [Status](https://status.g3v.co.uk) 
 Version 4.2.1 | Plugins: youtube-plugin, lavasrc-plugin | Quality: opusEncodingQuality = 10, resamplingQuality = HIGH
