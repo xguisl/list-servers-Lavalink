@@ -23,6 +23,8 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
+
+
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/)<br />
 [Non SSL version](https://lavalink.darrennathanael.com/NoSSL/Lavalink-NonSSL/#hosted-by-amane-ajiedev) <br />
@@ -33,6 +35,12 @@ Host : lavalinkv4.serenetia.com
 Port : 443
 Password : "https://dsc.gg/ajidevserver"
 Secure : true
+
+"host": "lavalinkv4.serenetia.com",
+"port": 443,
+"password": "https://seretia.link/discord",
+"secure": true
+
 ```
 Version 3.x <br />
 ![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![bwv4](https://ajieblogs.eu.org/lavalink/v3/badge/Bandwidth)
