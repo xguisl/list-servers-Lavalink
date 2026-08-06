@@ -38,14 +38,7 @@ Secure : true
 
 
 ```
-Version 3.x <br />
-![stat](https://ajieblogs.eu.org/lavalink/v3/badge/Status) ![up](https://ajieblogs.eu.org/lavalink/v3/badge/Uptime) ![playersv4](https://ajieblogs.eu.org/lavalink/v3/badge/Players) ![bwv4](https://ajieblogs.eu.org/lavalink/v3/badge/Bandwidth)
-```bash
-Host : lavalinkv3.serenetia.com
-Port : 443
-Password : "https://dsc.gg/ajidevserver"
-Secure : true
-```
+
 Version 3.x / 4.x <br />
 ```bash
 
