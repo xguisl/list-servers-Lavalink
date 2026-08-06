@@ -39,16 +39,6 @@ Secure : true
 
 ```
 
-Version 3.x / 4.x <br />
-```bash
-
-    "host": "lavalinkv4.serenetia.com",
-    "port": 443,
-    "password": "https://seretia.link/discord",
-    "secure": true
-
-```
-
 ```bash
 Host : lava-v4.millohost.my.id
 Port : 443
