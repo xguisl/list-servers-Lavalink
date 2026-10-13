@@ -82,3 +82,13 @@ Port : 443
 Password : "trinium"
 Secure : true
 ```
+
+### Hosted by @ [Nazha](https://github.com/knownasrazi/nazha-free-lavalink)
+[Website](https://github.com/knownasrazi/nazha-free-lavalink) <br />
+Version 4.2.2 | 45+ sources <br />
+```bash
+Host : lavalink.nazha.online
+Port : 443
+Password : "nazhafreelava"
+Secure : true
+```
